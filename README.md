@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ![Shreyans121's github stats](https://github-readme-stats.vercel.app/api?username=shreyans121&show_icons=true&theme=radical&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Shreyans121&hide_rank=false&show_icons=true&hide_title=false&count_private=true&theme=graywhite&hide_border=true&include_all_commits=true" width="55%"/> 
 
 -->
 
@@ -28,6 +29,8 @@ Here are some ideas to get you started:
 ⚡ I am 1/3 of Bleeding Edge, A blog dedicated to Science and Technology where I post around 2-3 articles every week.
 
 👯 I’m always ready to explore and collaborate. Ping me!!
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyans121&theme=graywhite&layout=compact&langs_count=8&hide_border=true&exclude_repo=comp-graph-finalProject,beautifulTrees_IS_F311" width="40%">  &emsp; &emsp; <img src="https://github-readme-streak-stats.herokuapp.com?user=Shreyans121&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%" />
 
 ## 📫 Let's talk!
 
