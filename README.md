@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <!--  PROFILES VIEWS -->
 🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/ritikumariupadhyay24/count.svg?align=center)
+![visitors](https://profile-counter.glitch.me/shreyans121/count.svg?align=center)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyans121&theme=graywhite&layout=compact&langs_count=8&hide_border=true&exclude_repo=comp-graph-finalProject,beautifulTrees_IS_F311" width="40%">  &emsp; &emsp; <img src="https://github-readme-streak-stats.herokuapp.com?user=Shreyans121&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="55%" />
 
